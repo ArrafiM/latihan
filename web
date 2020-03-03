@@ -1,7 +1,11 @@
 -Htlm
   *Struktur awal
+  *Halaman utama
+  *Halaman login
 -Css
   *Desain Awal
+  *Desain Utama dan Login
 -Php
   *koneksi
--Database
+-Database mysql
+  *tabel user
